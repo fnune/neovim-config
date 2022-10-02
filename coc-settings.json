@@ -1,0 +1,4 @@
+{
+  "Lua.telemetry.enable": false,
+  "coc.preferences.formatOnType": true
+}
